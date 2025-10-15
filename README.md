@@ -137,9 +137,24 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 This project is licensed under the MIT License.
 
-## 📬 Contact
+## ✨ Contributors
 
-- Contributors: [udaypratapsingh4667](https://github.com/udaypratapsingh4667) [Rakesh0045](https://github.com/Rakesh0045) [prorb23](https://github.com/prorb23) [NAB-Design](https://github.com/NAB-Design)
+A huge thanks to these wonderful people who have contributed to the ServiceSphere project:
+
+<div align="center">
+  <a href="https://github.com/udaypratapsingh4667" title="Uday Pratap Singh">
+    <img src="https://github.com/udaypratapsingh4667.png?size=100" alt="Uday Pratap Singh" width="100" style="border-radius: 50%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/Rakesh0045" title="Rakesh Kumar Parida">
+    <img src="https://github.com/Rakesh0045.png?size=100" alt="Rakesh Kumar Parida" width="100" style="border-radius: 50%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/prorb23" title="Ranit Bhattacharjee">
+    <img src="https://github.com/prorb23.png?size=100" alt="Ranit Bhattacharjee" width="100" style="border-radius: 50%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/NAB-Desgin" title="Nithin A B">
+    <img src="https://github.com/NAB-Desgin.png?size=100" alt="Nithin A B" width="100" style="border-radius: 50%; margin: 5px;" />
+  </a>
+</div>
 ---
 
 <div align="center" style="margin-top: 2rem;">
