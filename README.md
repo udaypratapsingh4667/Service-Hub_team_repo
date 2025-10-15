@@ -139,8 +139,7 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-- Author: Rakesh0045
-- GitHub: [ServiceSphere](https://github.com/Rakesh0045/ServiceSphere)
+- Contributors: udaypratapsingh4667 Rakesh0045 prorb23 
 
 ---
 
