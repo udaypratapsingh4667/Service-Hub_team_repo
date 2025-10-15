@@ -139,8 +139,7 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-- Contributors: udaypratapsingh4667 Rakesh0045 prorb23 
-
+- Contributors: [udaypratapsingh4667](https://github.com/udaypratapsingh4667) [Rakesh0045](https://github.com/Rakesh0045) [prorb23](https://github.com/prorb23) [NAB-Design](https://github.com/NAB-Design)
 ---
 
 <div align="center" style="margin-top: 2rem;">
